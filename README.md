@@ -3,6 +3,8 @@ Hi !
 --------------------------
 HOW TO INSTALL ?
 --------------------------
+0. I just downloaded my own release, GitHub calls the folder thanico_userlist-1.0.0, please RENAME it to thanico_userlist, or it WON'T WORK !
+
 1. Move the folder 'thanico_userlist' to sites/default/plugins/
 You should have sites/default/plugins/thanico_userlist/...
 
@@ -35,6 +37,8 @@ I just put the french and english translations, you're welcome to add yours
 You just have to copy what I've done for a lang and change it
 
 
-
+--------------------------
+CONTACT
+--------------------------
 Feel free to follow me !
 If you have any question or idea : thanico.dev [at] gmail.com

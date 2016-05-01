@@ -1,3 +1,5 @@
+NOTE: This plugin is no longer maintained.
+
 Hi !
 
 --------------------------

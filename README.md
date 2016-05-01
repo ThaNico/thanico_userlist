@@ -35,10 +35,3 @@ Q: I set up my language in the config file but it shows in english, help me !
 A: That's because your lang isn't configured in thanico_userlist.lang.php
 I just put the french and english translations, you're welcome to add yours
 You just have to copy what I've done for a lang and change it
-
-
---------------------------
-CONTACT
---------------------------
-Feel free to follow me !
-If you have any question or idea : thanico.dev [at] gmail.com
